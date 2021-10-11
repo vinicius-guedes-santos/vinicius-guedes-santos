@@ -17,5 +17,5 @@ Olá, me chamo VINICIUS GUEDES :D
 🧮 UFCA Ciências da Computação 2021.1 </br>
 🐍 Python foi a porta de entrada </br>
 🌐 HTML, CSS e JavaScript </br>
-🖥️ Estudando C# </br>
+🖥️ Estudando C e C# </br>
 🎥 Produção AudioVisual
