@@ -19,4 +19,4 @@ Olá, me chamo VINICIUS GUEDES :D
 🐍 Python </br>
 🌐 HTML, CSS e JavaScript </br>
 🖥️ Estudando CS50 </br>
-💼 Aprendiz de Tecnologia na Brisanet
+💼 Aprendiz de Tecnologia
