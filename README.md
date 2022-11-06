@@ -18,3 +18,6 @@
 ## 🌐 Connect with me
 
 <a href="https://www.linkedin.com/in/vinicius-guedes-b817aa223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
