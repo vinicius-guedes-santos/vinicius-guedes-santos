@@ -1,8 +1,8 @@
 # 🎉 Welcome to my profile 😛
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinicciusSantos&show_icons=true&icon_color=fff&include_all_commits=true&count_private=true&bg_color=30,08BEC1,394AAB&title_color=fff&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinicciusSantos&langs_count=8&layout=compact&include_all_commits=true&count_private=true&bg_color=30,3357AD,354DAD&title_color=fff&text_color=fff"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VinicciusSantos&show_icons=true&icon_color=fff&include_all_commits=true&count_private=true&bg_color=30,08BEC1,394AAB&title_color=fff&text_color=fff"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinicciusSantos&langs_count=8&layout=compact&include_all_commits=true&count_private=true&bg_color=30,3357AD,354DAD&title_color=fff&text_color=fff"/>
 </div>
 
 
