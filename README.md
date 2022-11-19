@@ -24,16 +24,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 November 2022 - To: 16 November 2022
+From: 05 November 2022 - To: 18 November 2022
 
-Total Time: 13 hrs 42 mins
+Total Time: 26 hrs 25 mins
 
-TypeScript   7 hrs 34 mins   █████████████▓░░░░░░░░░░░   54.83 %
-JSON         2 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-HTML         1 hr 48 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-Bash         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-JavaScript   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-SCSS         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+TypeScript   18 hrs 3 mins   █████████████████░░░░░░░░   67.63 %
+JSON         2 hrs 54 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+HTML         1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Bash         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Markdown     55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+JavaScript   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
