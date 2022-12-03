@@ -9,7 +9,7 @@
 ## 📖 About Me
 - 🔭 Working as Technology Apprentice in Brazil
 - 🌱 Learning Angular, TypeScript and Jest
-- 📚 Reading Clean Code - Robert Cecil Martin
+- 📚 Reading Clean Architecture - Robert Cecil Martin
 
 ## 💡 My Skills
 
