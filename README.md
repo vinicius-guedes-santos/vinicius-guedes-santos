@@ -19,20 +19,3 @@
 
 <a href="https://www.linkedin.com/in/vinicius-guedes-b817aa223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-## 🖥️ Dev Metrics
-
-<!--START_SECTION:waka-->
-
-```text
-From: 05 November 2022 - To: 08 December 2022
-
-Total Time: 65 hrs 2 mins
-
-TypeScript   51 hrs 15 mins  ███████████████████▒░░░░░   76.94 %
-HTML         3 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-JSON         3 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-MDX          1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Other        1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-```
-
-<!--END_SECTION:waka-->
