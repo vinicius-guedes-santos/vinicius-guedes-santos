@@ -9,13 +9,15 @@
 ## 📖 About Me
 - 🔭 Working as Technology Apprentice in Brazil
 - 🌱 Learning Angular, TypeScript and Jest
-- 📚 Reading Clean Architecture - Robert Cecil Martin
+- 📚 Computer Science at UNIP
 
 ## 💡 My Skills
 
 [![My Skills](https://skills.thijs.gg/icons?i=angular,react,html,css,sass,bootstrap,ts,js,nodejs,git,c,py,postgres)](https://github.com/VinicciusSantos)
 
 ## 🖥️ Dev Metrics
+
+- last 7 days coding time:
 
 <!--START_SECTION:waka-->
 
