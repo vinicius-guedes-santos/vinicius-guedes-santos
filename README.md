@@ -15,27 +15,6 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=angular,react,html,css,sass,bootstrap,ts,js,nodejs,git,c,py,postgres)](https://github.com/VinicciusSantos)
 
-## 🖥️ Dev Metrics
-
-- last 7 days coding time:
-
-<!--START_SECTION:waka-->
-
-```text
-From: 17 April 2023 - To: 24 April 2023
-
-Total Time: 8 hrs 16 mins
-
-TypeScript   7 hrs 33 mins   ███████████████████████░░   91.47 %
-Go           17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Docker       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-```
-
-<!--END_SECTION:waka-->
-
 ## 🌐 Connect with me
 
 <a href="https://www.linkedin.com/in/vinicius-guedes-b817aa223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
