@@ -14,6 +14,13 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=angular,react,jest,html,css,sass,bootstrap,ts,js,nodejs,express,git,c,py,postgres,mysql,docker)](https://github.com/VinicciusSantos)
 
+## 🖥️ Dev Metrics
+
+- last 7 days coding time:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🌐 Connect with me
 
 <a href="https://www.linkedin.com/in/vinicius-guedes-b817aa223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
