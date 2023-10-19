@@ -12,7 +12,7 @@
 
 ## 💡 My Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=angular,react,jest,html,css,sass,bootstrap,ts,js,nodejs,express,git,c,py,postgres,mysql,docker)](https://github.com/VinicciusSantos)
+[![My Skills](https://skills.thijs.gg/icons?i=angular,react,styledcomponents,jest,html,css,sass,bootstrap,ts,js,go,nodejs,express,nestjs,git,c,py,postgres,mysql,sqlite,docker,graphql)](https://github.com/VinicciusSantos)
 
 ## 🖥️ Dev Metrics
 
