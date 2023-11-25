@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2023 - To: 23 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
-Total Time: 17 hrs 54 mins
+Total Time: 21 hrs 53 mins
 
-TypeScript   12 hrs 9 mins   █████████████████░░░░░░░░   67.35 %
-HTML         3 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   20.64 %
-Less         1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-Go           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+TypeScript       14 hrs 45 mins  ████████████████▓░░░░░░░░   66.97 %
+HTML             4 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
+Less             1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Go               37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+INI              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
