@@ -21,12 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2023 - To: 25 December 2023
+From: 19 December 2023 - To: 26 December 2023
 
-Total Time: 17 mins
+Total Time: 14 mins
 
-TypeScript   17 mins         █████████████████████░░░░   84.08 %
-Other        3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+TypeScript   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
