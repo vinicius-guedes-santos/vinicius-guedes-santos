@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2024 - To: 15 May 2024
+From: 09 May 2024 - To: 16 May 2024
 
-Total Time: 23 hrs 14 mins
+Total Time: 20 hrs 28 mins
 
-TypeScript       15 hrs 30 mins  ████████████████▓░░░░░░░░   66.71 %
-HTML             2 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
-Go               1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-JSON             58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-PlantUML file    58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+TypeScript       12 hrs 55 mins  ███████████████▓░░░░░░░░░   63.09 %
+HTML             2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
+Go               1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+JSON             1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+PlantUML file    58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
 <!--END_SECTION:waka-->
