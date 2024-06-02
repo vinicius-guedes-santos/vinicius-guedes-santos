@@ -6,7 +6,7 @@
 </div>
 
 ## 📖 About Me
-- 🔭 Working as programming assistant in Brazil
+- 🔭 Working as software engineer in Brazil
 - 🌱 Learning Full Cycle
 - 📚 Computer Science at UNIP
 
