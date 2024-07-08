@@ -13,10 +13,20 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          TIME_RANGE: last_7_days
-          SHOW_TOTAL: true
-          SHOW_TITLE: true
-          # following flags are required, only if this is not on
-          # profile readme, remove the leading `#` to use them
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #REPOSITORY: <gh_username/gh_username>
+          COMMIT_BY_ME: "False"
+          COMMIT_MESSAGE: "Updated dev metrics"
+          COMMIT_USERNAME: "guilyx"
+          COMMIT_EMAIL: "erwin.lejeune15@gmail.com"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "True"
+          SHOW_UPDATED_DATE: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_SHORT_INFO: "True"
