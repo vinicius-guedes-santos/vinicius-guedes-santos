@@ -16,7 +16,7 @@ jobs:
           COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "Updated dev metrics"
           COMMIT_USERNAME: "guilyx"
-          COMMIT_EMAIL: "erwin.lejeune15@gmail.com"
+          COMMIT_EMAIL: "comercial.viniciusguedes@gmail.com"
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
