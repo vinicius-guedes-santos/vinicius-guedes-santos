@@ -5,18 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinicciusSantos&langs_count=8&layout=compact&include_all_commits=true&count_private=true&bg_color=30,000,000&title_color=fff&text_color=fff"/>
 </div>
 
-## 📖 About Me
-- 🔭 Working as software engineer in Brazil
-- 🌱 Learning Full Cycle
-- 📚 Computer Science at UNIP
-
-## 💡 My Skills
-
-[![My Skills](https://skills.thijs.gg/icons?i=angular,react,styledcomponents,jest,html,css,sass,bootstrap,ts,js,go,nodejs,express,nestjs,git,c,py,postgres,mysql,sqlite,docker,graphql)](https://github.com/VinicciusSantos)
-
 ## 🖥️ Dev Metrics
-
-- last 7 days coding time:
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C781%20hrs%2026%20mins-blue)
