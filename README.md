@@ -1,8 +1,8 @@
 # 🎉 Welcome to my profile 😛
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinicciusSantos&show_icons=true&icon_color=fff&include_all_commits=true&count_private=true&bg_color=30,000,000&title_color=fff&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinicciusSantos&langs_count=8&layout=compact&include_all_commits=true&count_private=true&bg_color=30,000,000&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinicciusSantos&include_all_commits=true&count_private=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinicciusSantos&langs_count=6&layout=compact&include_all_commits=true&count_private=true&theme=github_dark"/>
 </div>
 
 ## 🖥️ Dev Metrics
