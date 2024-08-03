@@ -15,8 +15,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "Updated dev metrics"
-          COMMIT_USERNAME: "vinicciusSantos"
-          COMMIT_EMAIL: "comercial.viniciusguedes@gmail.com"
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "True"
           SHOW_PROJECTS: "False"
