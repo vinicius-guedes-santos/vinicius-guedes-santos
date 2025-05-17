@@ -19,8 +19,8 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinicciusSantos&include_all_commits=true&count_private=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinicciusSantos&langs_count=6&layout=compact&include_all_commits=true&count_private=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-guedes-santos&include_all_commits=true&count_private=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-guedes-santos&langs_count=6&layout=compact&include_all_commits=true&count_private=true&theme=github_dark"/>
 </div>
 
 ## 🖥️ Dev Metrics
@@ -44,7 +44,7 @@
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm an Early 🐤** 0812
 
 ```text
 🌞 Morning                1868 commits        ███████████░░░░░░░░░░░░░░   43.78 % 
