@@ -71,14 +71,13 @@ Sunday                   334 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Fortaleza
 
 💬 Programming Languages: 
-JSON                     11 mins             █████████████░░░░░░░░░░░░   50.96 % 
-Go                       11 mins             ████████████░░░░░░░░░░░░░   49.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
