@@ -26,7 +26,7 @@
 ## 🖥️ Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C831%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C833%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,13 +71,17 @@ Sunday                   334 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Fortaleza
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       4 hrs 4 mins        ████████████████████░░░░░   81.00 % 
+TypeScript               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Makefile                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 
