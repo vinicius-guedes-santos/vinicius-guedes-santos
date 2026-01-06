@@ -26,9 +26,11 @@
 ## 🖥️ Dev Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C986%20hrs%2044%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.68%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.68%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,6 +44,42 @@
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1700 commits        ████████████░░░░░░░░░░░░░   46.08 % 
+🌆 Daytime                1168 commits        ████████░░░░░░░░░░░░░░░░░   31.66 % 
+🌃 Evening                712 commits         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+🌙 Night                  109 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   503 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Tuesday                  562 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Wednesday                618 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Thursday                 639 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Friday                   700 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Saturday                 333 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Sunday                   334 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Fortaleza
+
+💬 Programming Languages: 
+Other                    14 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  14 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    14 mins             █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
