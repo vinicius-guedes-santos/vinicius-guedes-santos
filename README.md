@@ -26,7 +26,7 @@
 ## 🖥️ Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C076%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C088%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,46 +44,6 @@
  > 
 > 🔑 27 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1700 commits        ███████████░░░░░░░░░░░░░░   45.98 % 
-🌆 Daytime                1171 commits        ████████░░░░░░░░░░░░░░░░░   31.67 % 
-🌃 Evening                716 commits         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-🌙 Night                  110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   503 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Tuesday                  562 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Wednesday                618 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Thursday                 639 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Friday                   703 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Saturday                 333 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Sunday                   339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Fortaleza
-
-💬 Programming Languages: 
-Go                       10 hrs 47 mins      ████████████████████░░░░░   81.09 % 
-JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Makefile                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 18 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    13 hrs 18 mins      █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
