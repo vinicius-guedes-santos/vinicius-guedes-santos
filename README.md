@@ -26,8 +26,6 @@
 ## 🖥️ Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C240%20hrs%203%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.68%20million%20lines%20of%20code-blue?style=flat)
@@ -44,46 +42,6 @@
  > 
 > 🔑 27 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1700 commits        ████████████░░░░░░░░░░░░░   46.63 % 
-🌆 Daytime                1162 commits        ████████░░░░░░░░░░░░░░░░░   31.87 % 
-🌃 Evening                681 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-🌙 Night                  103 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   495 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Tuesday                  559 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Wednesday                609 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Thursday                 637 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Friday                   702 commits         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Saturday                 328 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Sunday                   316 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Fortaleza
-
-💬 Programming Languages: 
-Go                       8 hrs 29 mins       █████████████████░░░░░░░░   66.61 % 
-TypeScript               1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-SQL                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 44 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    12 hrs 44 mins      █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
