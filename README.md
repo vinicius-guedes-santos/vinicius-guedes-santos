@@ -26,7 +26,7 @@
 ## 🖥️ Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C341%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C343%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -71,18 +71,18 @@ Sunday                   310 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Fortaleza
 
 💬 Programming Languages: 
-Go                       12 hrs 20 mins      ████████████████░░░░░░░░░   63.43 % 
-Markdown                 4 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-TypeScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-SQL                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Go                       10 hrs 30 mins      ██████████████░░░░░░░░░░░   54.14 % 
+Markdown                 4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+TypeScript               2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+SQL                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 15 mins      ████████████████░░░░░░░░░   62.93 % 
-Claude Code              7 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.07 % 
+VS Code                  11 hrs 20 mins      ███████████████░░░░░░░░░░   58.49 % 
+Claude Code              8 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.51 % 
 
 💻 Operating System: 
-Linux                    19 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 
