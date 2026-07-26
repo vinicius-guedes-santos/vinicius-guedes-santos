@@ -71,18 +71,18 @@ Sunday                   310 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Fortaleza
 
 💬 Programming Languages: 
-Go                       10 hrs 30 mins      ██████████████░░░░░░░░░░░   54.14 % 
-Markdown                 4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-TypeScript               2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-SQL                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Go                       10 hrs 2 mins       █████████████░░░░░░░░░░░░   50.37 % 
+Markdown                 4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+TypeScript               3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+SQL                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 20 mins      ███████████████░░░░░░░░░░   58.49 % 
-Claude Code              8 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.51 % 
+VS Code                  11 hrs 52 mins      ███████████████░░░░░░░░░░   59.59 % 
+Claude Code              8 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.41 % 
 
 💻 Operating System: 
-Linux                    19 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 
