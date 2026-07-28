@@ -26,7 +26,9 @@
 ## 🖥️ Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C343%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C281%20hrs%2049%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -83,6 +85,30 @@ Claude Code              8 hrs 3 mins        ██████████░�
 
 💻 Operating System: 
 Linux                    19 hrs 55 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 hrs 50 mins (64.48%)
+
+✍️ 9,043 lines written by AI, 12,783 lines written by hand (41.43% AI-written)
+
+🔤 129,218,136 Input Tokens, 938,228 Output Tokens
+
+💵 $424.57 Estimated AI Cost This Week
+
+🧠 28 AI Sessions, 151 AI Prompts
+
+Sonnet                   7,998 lines         █████████████████████░░░░   84.08 % 
+Opus                     1,514 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 41.43% of written lines came from AI
+📚 Verbose Prompter — average 3,022 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 59.7% of changed lines were hand-edited
 ```
 
 
