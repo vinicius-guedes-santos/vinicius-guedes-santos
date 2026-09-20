@@ -68,39 +68,37 @@ Sunday                   482 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Fortaleza
 
 💬 Programming Languages: 
-Other                    1 hr 16 mins        ████████████████░░░░░░░░░   63.10 % 
-JSON                     26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Markdown                 16 mins             █████████████████░░░░░░░░   67.59 % 
+Other                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-Claude Code              1 hr 56 mins        ████████████████████████░   97.38 % 
-VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Claude Code              23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 59 mins        █████████████████████████   100.00 % 
+Linux                    22 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 56 mins (97.0%)
+⏱ AI Coding Time: 22 mins (100.0%)
 
 ✍️ 944 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 930,632 Input Tokens, 104,880 Output Tokens
+🔤 129,100 Input Tokens, 44,892 Output Tokens
 
-💵 $38.28 Estimated AI Cost This Week
+💵 $27.14 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 24 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
 Opus                     1,039 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 222 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 696 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
